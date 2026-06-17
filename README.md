@@ -23,6 +23,7 @@ Im Fokus der Analyse stehen die Aktien von **Apple (AAPL)** und **Amazon (AMZN)*
 ## Ergebnisse
 
 Zum Einsehen der Ergebnisse html-Datei herunterladen und lokal ausführen.
+
 ---
 
 ## Ausblick
@@ -64,6 +65,7 @@ The analysis focuses on **Apple (AAPL)** and **Amazon (AMZN)** stocks. Copula mo
 ## Results
 
 To view the results, download the html-file and run locally.
+
 ---
 ## Outlook
 
