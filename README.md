@@ -16,9 +16,13 @@ Im Fokus der Analyse stehen die Aktien von **Apple (AAPL)** und **Amazon (AMZN)*
 
 | Datei | Beschreibung |
 |-------|--------------|
-| `Copula_AAPL_AMZN.html` | Darstellung der Ergebnisse und Visualisierungen als Notebook.|
+| `Copula_AAPL_AMZN.html` | Darstellung der Ergebnisse und Visualisierungen als Notebook|
 | `src/` | Quellcode zur Datenverarbeitung, Copula-Schätzung und Optimierung |
 
+---
+## Ergebnisse
+
+Zum Einsehen der Ergebnisse html-Datei herunterladen und lokal ausführen.
 ---
 
 ## Ausblick
@@ -57,7 +61,10 @@ The analysis focuses on **Apple (AAPL)** and **Amazon (AMZN)** stocks. Copula mo
 | `src/` | Source code for data processing, copula estimation, and optimization |
 
 ---
+## Results
 
+To view the results, download the html-file and run locally.
+---
 ## Outlook
 
 Extensions to **larger portfolios** with multiple assets are planned to evaluate the scalability and practical applicability of this approach.
